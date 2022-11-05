@@ -1,4 +1,6 @@
 ### Hi there 👋
+  my name is jay kapadia
+  1st year student at vishwakarma government rngineering college
 
 <!--
 **Beastcrusher69/Beastcrusher69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
