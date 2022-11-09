@@ -1,7 +1,7 @@
 ### Hi there 👋
-  I am Jay Kapadia
-  1st year student at Vishwakarma Government Engineering College
-  Computer Engineering
+  - I am Jay Kapadia
+  - 1st year student at Vishwakarma Government Engineering College
+  - Computer Engineering
 
 <!--
 **Beastcrusher69/Beastcrusher69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
