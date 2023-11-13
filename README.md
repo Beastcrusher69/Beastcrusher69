@@ -1,6 +1,6 @@
 ### Hi there 👋
   - I am Jay Kapadia
-  - 1st year student at Vishwakarma Government Engineering College
+  - 2nd year student at Vishwakarma Government Engineering College
   - Computer Engineering
 
 <!--
